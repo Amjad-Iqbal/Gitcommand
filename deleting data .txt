@@ -1,0 +1,7 @@
+git remote -v   // will display all repository
+
+git rm -r "Folder Name"  // If we used * instead of folder Name all files will be deleted
+
+git commit -m "Directory Deleted"  // It will confirm and delete files ..
+
+git push origin master //  It will delete from the git Account

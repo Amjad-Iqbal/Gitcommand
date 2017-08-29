@@ -1,0 +1,7 @@
+git status // If new File Added then it will show 
+
+git add * /// Will add all files
+
+git commit -m "Add any Commit" /// Commit
+
+git push /// Push data to server
